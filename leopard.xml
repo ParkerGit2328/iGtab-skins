@@ -1,21 +1,13 @@
-
-    <?xml version="1.0" encoding="UTF-8"?>
-        <ConfigMaps>
-            <ConfigMap type="Skin">
-            <Meta name="title">Leopard</Meta>
-            <Meta name="description">Those spots look snazzy.</Meta>
-            <Meta name="author">Parker Oilar</Meta>
-            <Meta name="author_email">igizmo2328@gmail.com</Meta>
-            <Meta name="full_page_thumbnail.url">
-                https://github.com/ParkerGit2328/Leopard-theme-for-iGtab/blob/main/84179.jpg
-            <Meta name="thumbnail">    
-                https://github.com/ParkerGit2328/Leopard-theme-for-iGtab/blob/main/84179.jpg
-            </Meta>
-        </ConfigMap>
-        <ConfigMap type="Skin">
-            <Attribute name="full_page.background_image.url">
-                https://github.com/ParkerGit2328/Leopard-theme-for-iGtab/blob/main/84179.jpg
-            </Attribute>
-        </ConfigMap>
-    </ConfigMaps>
-                
+<ConfigMaps>
+<ConfigMap type="Skin">
+<Meta name="title">Leopard print</Meta>
+<Meta name="description">Leopard print</Meta>
+<Meta name="author">Parker Oilar</Meta>
+<Meta name="author_email"igizmo2328@gmail.com</Meta>
+<Meta name="full_page_thumbnail.url"> https://raw.githubusercontent.com/ParkerGit2328/Leopard-theme-for-iGtab/main/84179.jpg </Meta>
+</ConfigMap>
+<ConfigMap type="Skin">
+<Attribute name="full_page.background_image.url"> <Attribute name="full_page.background_image.url"> https://raw.githubusercontent.com/ParkerGit2328/Leopard-theme-for-iGtab/main/84179.jpg</Attribute>
+ </Attribute>
+</ConfigMap>
+</ConfigMaps>
