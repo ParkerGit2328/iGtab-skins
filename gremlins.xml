@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+        <ConfigMaps>
+            <ConfigMap type="Skin">
+            <Meta name="title">Gremlins</Meta>
+            <Meta name="description">Don't feed iGTab widgets after midnight...</Meta>
+            <Meta name="author">ParkerOilar</Meta>
+            <Meta name="author_email">igizmo2328@gmail.com</Meta>
+            <Meta name="full_page_thumbnail.url">
+                https://images4.alphacoders.com/112/1120710.jpg
+            </Meta>
+        </ConfigMap>
+        <ConfigMap type="Skin">
+            <Attribute name="full_page.background_image.url">
+                https://images4.alphacoders.com/112/1120710.jpg
+            </Attribute>
+        </ConfigMap>
+    </ConfigMaps>
+                
