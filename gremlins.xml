@@ -9,11 +9,5 @@
                 https://images4.alphacoders.com/112/1120710.jpg
             </Meta>
         </ConfigMap>
-        <ConfigMap type="Skin">
-            <Attribute name="full_page.background_image.url">
-                https://images4.alphacoders.com/112/1120710.jpg
-            </Attribute>
-        </ConfigMap>
-               <Meta Name>
     </ConfigMaps>
                 
