@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <ConfigMaps>
     <ConfigMap type="Skin">
-        <Meta name="title">Lake Tahoe Colors</Meta>
-        <Meta name="description">Sand Harbor in Lake Tahoe, California.</Meta>
-        <Meta name="author">Romain Guy</Meta>
-        <Meta name="author_email">romainguy+photo@curious-creature.com</Meta>
+        <Meta name="title">Copper and Hook</Meta>
+        <Meta name="description">Got fish?</Meta>
+        <Meta name="author">RBV Studios</Meta>
+        <Meta name="author_email">igizmo2328@gmail.com</Meta>
         <Meta name="full_page_thumbnail.url">
-            https://igtab.com/theme/image/Lake_Tahoe_Colors_Thumb.png
+            https://lh4.googleusercontent.com/aFeSa1jT5V2zQDw5vTvxYTMgHk7Y0SQ8ctX4noh9cm6reyyzcdV2szqY4F_oVbbzxcJB2sgCjtQAoJiPAA1ia2R_XS4zCMxyBJUNgLafXF8qmC5DMH0WyupfLb6DHI6Ijw=w1280
         </Meta>
     </ConfigMap>
     <ConfigMap type="Skin">
         <Attribute name="full_page.background_image.url">
-            https://igtab.com/theme/image/Lake_Tahoe_Colors.png
+            https://lh4.googleusercontent.com/aFeSa1jT5V2zQDw5vTvxYTMgHk7Y0SQ8ctX4noh9cm6reyyzcdV2szqY4F_oVbbzxcJB2sgCjtQAoJiPAA1ia2R_XS4zCMxyBJUNgLafXF8qmC5DMH0WyupfLb6DHI6Ijw=w1280
         </Attribute>
     </ConfigMap>
 </ConfigMaps>
